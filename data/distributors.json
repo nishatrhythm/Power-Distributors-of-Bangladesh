@@ -1,0 +1,518 @@
+{
+    "BPDB - Bangladesh Power Development Board": {
+        "Zone": {
+            "Chattogram (South Zone)": {
+                "Circle": {
+                    "Conservation and Management Circle, Chatto Metro (East)": {
+                        "Sales & Distribution Division": [
+                            "Patharghata",
+                            "Stadium",
+                            "Sholoshohor",
+                            "Kalurghat",
+                            "Bakalia",
+                            "Madarbari"
+                        ]
+                    },
+                    "Conservation and Management Circle, Chatto Metro (West)": {
+                        "Sales & Distribution Division": [
+                            "Agrabad",
+                            "Halishahar",
+                            "Pahartali",
+                            "Khulshi",
+                            "Rampur",
+                            "New Mooring"
+                        ]
+                    },
+                    "Conservation and Management Circle, Chatto Metro (North)": {
+                        "Sales & Distribution Division": [
+                            "Faujdarhat",
+                            "Hathazari",
+                            "Mohra",
+                            "Barabkunda"
+                        ]
+                    },
+                    "Conservation and Management Circle, Chatto Metro (South)": {
+                        "Sales & Distribution Division": [
+                            "Patiya",
+                            "Cox\u0027s Bazar"
+                        ]
+                    },
+                    "Conservation and Management Circle, Rangamati": {
+                        "Sales & Distribution Division": [
+                            "Rangamati",
+                            "Bandarban",
+                            "Khagrachari"
+                        ]
+                    }
+                }
+            },
+            "Mymensingh (Central Zone)": {
+                "Circle": {
+                    "Conservation and Management Circle-1, Mymensingh": {
+                        "Sales & Distribution Division": [
+                            "Sales & Distribution Division-1 (North)",
+                            "Sales & Distribution Division-2 (South)",
+                            "Trishal",
+                            "Bhaluka",
+                            "Gafargaon"
+                        ]
+                    },
+                    "Conservation and Management Circle-2, Mymensingh": {
+                        "Sales & Distribution Division": [
+                            "Sales & Distribution Division-3",
+                            "Phulpur",
+                            "Netrokona",
+                            "Kishoreganj",
+                            "Bajitpur",
+                            "Bhairab"
+                        ]
+                    },
+                    "Conservation and Management Circle, Tangail": {
+                        "Sales & Distribution Division": [
+                            "Sales & Distribution Division-1",
+                            "Sales & Distribution Division-2",
+                            "Sales & Distribution Division-3",
+                            "Sakhipur",
+                            "Bhuapur",
+                            "Ghatail",
+                            "Kalihati"
+                        ]
+                    },
+                    "Conservation and Management Circle, Jamalpur": {
+                        "Sales & Distribution Division": [
+                            "Jamalpur",
+                            "Sarishabari",
+                            "Sherpur"
+                        ]
+                    }
+                }
+            },
+            "Cumilla Zone": {
+                "Circle": {
+                    "Conservation and Management Circle, Cumilla": {
+                        "Sales & Distribution Division": [
+                            "Cumilla-1",
+                            "Cumilla-2",
+                            "Cumilla-3",
+                            "Daulatganj",
+                            "Chandpur",
+                            "Brahmanbaria-1",
+                            "Brahmanbaria-2",
+                            "Ashuganj",
+                            "Sarail"
+                        ]
+                    },
+                    "Conservation and Management Circle, Noakhali": {
+                        "Sales & Distribution Division": [
+                            "Noakhali",
+                            "Feni",
+                            "Chowmuhani",
+                            "Lakshmipur"
+                        ]
+                    }
+                }
+            },
+            "Sylhet Zone": {
+                "Circle": {
+                    "Conservation and Management Circle, Sylhet": {
+                        "Sales & Distribution Division": [
+                            "Sylhet-1",
+                            "Sylhet-2",
+                            "Sylhet-3",
+                            "Sylhet-4",
+                            "Sylhet-5",
+                            "Chhatak",
+                            "Sunamganj"
+                        ]
+                    },
+                    "Conservation and Management Circle, Moulvibazar": {
+                        "Sales & Distribution Division": [
+                            "Moulvibazar",
+                            "Habiganj",
+                            "Kulaura"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "DESCO - Dhaka Electric Supply Company Limited": {
+        "Zone": {
+            "North Zone": {
+                "Circle": {
+                    "Tongi": {
+                        "Sales & Distribution Division": [
+                            "Tongi (East)",
+                            "Tongi (Central)",
+                            "Tongi (West)"
+                        ]
+                    },
+                    "Uttara": {
+                        "Sales & Distribution Division": [
+                            "Uttara (East)",
+                            "Uttara (West)",
+                            "Turag"
+                        ]
+                    },
+                    "Dakshinkhan": {
+                        "Sales & Distribution Division": [
+                            "Uttarkhan",
+                            "Dakshinkhan",
+                            "Shah Kabir"
+                        ]
+                    }
+                }
+            },
+            "Central Zone": {
+                "Circle": {
+                    "Baridhara": {
+                        "Sales & Distribution Division": [
+                            "Baridhara",
+                            "Basundhara",
+                            "Khilkhet"
+                        ]
+                    },
+                    "Gulshan": {
+                        "Sales & Distribution Division": [
+                            "Badda",
+                            "Gulshan",
+                            "Joar Shahara"
+                        ]
+                    }
+                }
+            },
+            "South Zone": {
+                "Circle": {
+                    "Pallabi": {
+                        "Sales & Distribution Division": [
+                            "Pallabi",
+                            "Kafrul",
+                            "Ibrahimpur"
+                        ]
+                    },
+                    "Agargaon": {
+                        "Sales & Distribution Division": [
+                            "Agargaon",
+                            "Monipur",
+                            "Kallyanpur"
+                        ]
+                    },
+                    "Rupnagar": {
+                        "Sales & Distribution Division": [
+                            "Shah Ali",
+                            "Rupnagar",
+                            "Eastern Housing"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "DPDC - Dhaka Power Distribution Company Limited": {
+        "Zone": {
+            "South Zone": {
+                "Area Name": [
+                    "Kamalapur",
+                    "Kazla",
+                    "Postogola",
+                    "Bangla Bazar",
+                    "Narayanganj (West)",
+                    "Siddirganj",
+                    "Bashabo",
+                    "Narinda",
+                    "Maniknagar",
+                    "Jurain",
+                    "Shyampur",
+                    "Swamibag",
+                    "Bangshal",
+                    "Narayanganj (East)",
+                    "Fatullah",
+                    "Mugdapara",
+                    "Demra",
+                    "Matuail",
+                    "Shetalokkha"
+                ]
+            },
+            "North Zone": {
+                "Area Name": [
+                    "Khilgaon",
+                    "Lalbagh",
+                    "Tejgaon",
+                    "Satmasjid",
+                    "Paribagh",
+                    "Kakrail",
+                    "Moghbazar",
+                    "Dhanmondi",
+                    "Segunbagicha",
+                    "Shyamoli",
+                    "Sher-e-Bangla Nagar",
+                    "Rajarbagh",
+                    "Jigatola",
+                    "Azimpur",
+                    "Kamrangirchar",
+                    "Adabor"
+                ]
+            },
+            "Central Zone": {
+                "Area Name": [
+                    "Bashabo"
+                ]
+            }
+        }
+    },
+    "NESCO - Northern Electricity Supply Company PLC": {
+        "Zone": {
+            "Rajshahi Zone": {
+                "Operation & Maintenance Circle": {
+                    "Operation & Maintenance Circle-1, Rajshahi": {
+                        "Sales & Distribution Division": [
+                            "Sales & Distribution Division-1, Rajshahi",
+                            "Sales & Distribution Division-2, Rajshahi",
+                            "Sales & Distribution Division-3, Rajshahi",
+                            "Sales & Distribution Division-4, Rajshahi",
+                            "Sales & Distribution Division-5, Rajshahi",
+                            "Sales & Distribution Division-Kashiadanga, Rajshahi",
+                            "Sales & Distribution Division-Bimanbondor, Rajshahi",
+                            "Tanore Electricity Supply, Rajshahi"
+                        ]
+                    },
+                    "Operation & Maintenance Circle-2, Rajshahi": {
+                        "Sales & Distribution Division": [
+                            "Sales & Distribution Division-1, Chapainawabganj",
+                            "Sales & Distribution Division-2, Chapainawabganj",
+                            "Shibganj Electric Supply, Chapainawabganj",
+                            "Sales & Distribution Division-Godagari, Rajshahi",
+                            "Sales & Distribution Division-Gomostapur, Chapainawabganj",
+                            "Sales & Distribution Division-Natore"
+                        ]
+                    },
+                    "Operation & Maintenance Circle, Pabna": {
+                        "Sales & Distribution Division": [
+                            "Sales & Distribution Division-1, Pabna",
+                            "Sales & Distribution Division-2, Pabna",
+                            "Sales & Distribution Division-Ishwardi, Pabna",
+                            "Sales & Distribution Division-1, Sirajganj",
+                            "Sales & Distribution Division-2, Sirajganj"
+                        ]
+                    },
+                    "Operation & Maintenance Circle, Bogura": {
+                        "Sales & Distribution Division": [
+                            "Sales & Distribution Division-1, Bogura",
+                            "Sales & Distribution Division-2, Bogura",
+                            "Sales & Distribution Division-3, Bogura",
+                            "Sales & Distribution Division-Korotoa, Bogura",
+                            "Shibganj Electric Supply, Bogura",
+                            "Sales & Distribution Division-Naogaon North, Naogaon",
+                            "Sales & Distribution Division-Naogaon South, Naogaon",
+                            "Sales & Distribution Division-Santahar, Bogura",
+                            "Sales & Distribution Division- Dupchanchia, Bogura",
+                            "Sales & Distribution Division- Sherpur, Bogura",
+                            "Sales & Distribution Division, Joypurhat"
+                        ]
+                    }
+                }
+            },
+            "Rangpur Zone": {
+                "Operation & Maintenance Circle": {
+                    "Operation & Maintenance Circle-1, Rangpur": {
+                        "Sales & Distribution Division": [
+                            "Sales & Distribution Division-1, Rangpur",
+                            "Sales & Distribution Division-2, Rangpur",
+                            "Sales & Distribution Division-3, Rangpur",
+                            "Sales & Distribution Division, Kurigram",
+                            "Sales & Distribution Division-1, Gaibandha",
+                            "Sales & Distribution Division-2, Gaibandha",
+                            "Sales & Distribution Division- Gobindaganj, Gaibandha",
+                            "Palashbari Electricity Supply, Gaibandha"
+                        ]
+                    },
+                    "Operation & Maintenance Circle-2, Rangpur": {
+                        "Sales & Distribution Division": [
+                            "Sales & Distribution Division, Lalmonirhat",
+                            "Sales & Distribution Division-Kaliganj, Lalmonirhat",
+                            "Sales & Distribution Division-Patgram, Lalmonirhat",
+                            "Sales & Distribution Division-Domar, Lalmonirhat",
+                            "Sales & Distribution Division, Nilphamari",
+                            "Sales & Distribution Division-Syedpur, Nilphamari",
+                            "Sales & Distribution Division-Hatibandha, Nilphamari",
+                            "Kishorganj Electric Supply, Nilphamari",
+                            "Jaldhaka Electric Supply, Nilphamari"
+                        ]
+                    },
+                    "Operation & Maintenance Circle, Dinajpur": {
+                        "Sales & Distribution Division": [
+                            "Sales & Distribution Division-1, Dinajpur",
+                            "Sales & Distribution Division-2, Dinajpur",
+                            "Sales & Distribution Division, Thakurgaon",
+                            "Sales & Distribution Division, Panchagarh",
+                            "Fulbari Electric Supply, Dinajpur",
+                            "Tetulia Electric Supply, Panchagarh",
+                            "Setabganj Electric Supply, Dinajpur",
+                            "Parbatipur Electric Supply, Dinajpur"
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "WZPDCL - West Zone Power Distribution Company Limited": {
+        "Operation & Maintenance Circle": {
+            "Operation & Maintenance Circle, Khulna": {
+                "Sales & Distribution Division": [
+                    "Sales & Distribution Division-1, Khulna",
+                    "Sales & Distribution Division-2, Khulna",
+                    "Sales & Distribution Division-3, Khulna",
+                    "Sales & Distribution Division-4, Khulna",
+                    "Sales & Distribution Division, Bagerhat",
+                    "Mongla Electric Supply, Bagerhat",
+                    "Fultola Electric Supply, Khulna"
+                ]
+            },
+            "Operation & Maintenance Circle, Jashore": {
+                "Sales & Distribution Division": [
+                    "Sales & Distribution Division-1, Jashore",
+                    "Sales & Distribution Division-2, Jashore",
+                    "Magura Electric Supply, Magura",
+                    "Satkhira Electric Supply, Satkhira",
+                    "Narail Electric Supply, Narail"
+                ]
+            },
+            "Operation & Maintenance Circle, Kushtia": {
+                "Sales & Distribution Division": [
+                    "Sales & Distribution Division-1, Kushtia",
+                    "Sales & Distribution Division-2, Kushtia",
+                    "Kumarkhali Electric Supply, Kushtia",
+                    "Sales & Distribution Division, Jhenaidah",
+                    "Sales & Distribution Division, Chuadanga",
+                    "Meherpur Electric Supply, Meherpur",
+                    "Kaliganj Electric Supply, Kaliganj",
+                    "Bheramara Electric Supply, Kushtia",
+                    "Alamdanga Electric Supply, Chuadanga",
+                    "Kotchandpur Electric Supply, Jhenaidah",
+                    "Shailkupa Electric Supply, Jhenaidah",
+                    "Moheshpur Electric Supply, Jhenaidah"
+                ]
+            },
+            "Operation & Maintenance Circle, Faridpur": {
+                "Sales & Distribution Division": [
+                    "Sales & Distribution Division-1, Faridpur",
+                    "Sales & Distribution Division-2, Faridpur",
+                    "Sales & Distribution Division, Madaripur",
+                    "Rajbari Electric Supply, Rajbari",
+                    "Gopalganj Electric Supply, Gopalganj",
+                    "Shariatpur Electric Supply, Shariatpur",
+                    "Sadarpur Electric Supply, Faridpur",
+                    "Bhanga Electric Supply, Faridpur",
+                    "Madhukhali Electric Supply, Faridpur",
+                    "Pangsa Electric Supply, Rajbari",
+                    "Goalanda Electric Supply, Rajbari"
+                ]
+            },
+            "Operation & Maintenance Circle, Barisal": {
+                "Sales & Distribution Division": [
+                    "Sales & Distribution Division-1, Barisal",
+                    "Sales & Distribution Division-2, Barisal",
+                    "Jhalakathi Electric Supply, Jhalakathi",
+                    "Pirojpur Electric Supply, Pirojpur",
+                    "Nalchity Electric Supply, Jhalakathi",
+                    "Bhandaria Electric Supply, Pirojpur",
+                    "Kathalia Electric Supply, Jhalakathi"
+                ]
+            },
+            "Operation & Maintenance Circle, Patuakhali": {
+                "Sales & Distribution Division": [
+                    "Sales & Distribution Division, Patuakhali",
+                    "Barguna Electric Supply, Barguna",
+                    "Bhola Electric Supply, Bhola",
+                    "Borhanuddin Electric Supply, Bhola",
+                    "Charfesson Electric Supply, Bhola",
+                    "Monpura Electric Supply, Bhola"
+                ]
+            }
+        }
+    },
+    "BREB - Bangladesh Rural Electrification Board": {
+        "Palli Bidyut Samity": [
+            "Brahmanbaria Palli Bidyut Samity",
+            "Bagerhat Palli Bidyut Samity",
+            "Barisal Palli Bidyut Samity - 1",
+            "Barisal Palli Bidyut Samity - 2",
+            "Bhola Palli Bidyut Samity",
+            "Bogura Palli Bidyut Samity-1",
+            "Bogura Palli Bidyut Samity-2",
+            "Chandpur Palli Bidyut Samity-1",
+            "Chandpur Palli Bidyut Samity-2",
+            "Chapainawabganj Palli Bidyut Samity",
+            "Chattogram Palli Bidyut Samity - 1",
+            "Chattogram Palli Bidyut Samity - 2",
+            "Chattogram Palli Bidyut Samity - 3",
+            "Cumilla Palli Bidyut Samity - 1",
+            "Cumilla Palli Bidyut Samity - 2",
+            "Cumilla Palli Bidyut Samity - 3",
+            "Cumilla Palli Bidyut Samity - 4",
+            "Cox's Bazar Palli Bidyut Samity",
+            "Dhaka Palli Bidyut Samity - 1",
+            "Dhaka Palli Bidyut Samity - 2",
+            "Dhaka Palli Bidyut Samity - 3",
+            "Dhaka Palli Bidyut Samity - 4",
+            "Dinajpur Palli Bidyut Samity - 1",
+            "Dinajpur Palli Bidyut Samity - 2",
+            "Faridpur Palli Bidyut Samity",
+            "Feni Palli Bidyut Samity",
+            "Gaibandha Palli Bidyut Samity",
+            "Gazipur Palli Bidyut Samity-1",
+            "Gazipur Palli Bidyut Samity-2",
+            "Gopalganj Palli Bidyut Samity",
+            "Habiganj Palli Bidyut Samity",
+            "Jaipurhat Palli Bidyut Samity",
+            "Jamalpur Palli Bidyut Samity",
+            "Jashore Palli Bidyut Samity-1",
+            "Jashore Palli Bidyut Samity-2",
+            "Jhalakathi Palli Bidyut Samity",
+            "Jhenaidah Palli Bidyut Samity",
+            "Khulna Palli Bidyut Samity",
+            "Kishoreganj Palli Bidyut Samity",
+            "Kurigram - Lalmonirhat Palli Bidyut Samity",
+            "Kustia Palli Bidyut Samity",
+            "Lakshmipur Palli Bidyut Samity",
+            "Madaripur Palli Bidyut Samity",
+            "Magura Palli Bidyut Samity",
+            "Manikganj Palli Bidyut Samity",
+            "Meherpur Palli Bidyut Samity",
+            "Moulvibazar Palli Bidyut Samity",
+            "Munshiganj Palli Bidyut Samity",
+            "Mymensingh Palli Bidyut Samity - 1",
+            "Mymensingh Palli Bidyut Samity - 2",
+            "Mymensingh Palli Bidyut Samity - 3",
+            "Naogaon Palli Bidyut Samity - 1",
+            "Naogaon Palli Bidyut Samity - 2",
+            "Narayanganj Palli Bidyut Samity-1",
+            "Narayanganj Palli Bidyut Samity-2",
+            "Narsingdi Palli Bidyut Samity - 1",
+            "Narsingdi Palli Bidyut Samity - 2",
+            "Natore Palli Bidyut Samity - 1",
+            "Natore Palli Bidyut Samity - 2",
+            "Netrokona Palli Bidyut Samity",
+            "Nilphamari Palli Bidyut Samity",
+            "Noakhali Palli Bidyut Samity",
+            "Pabna Palli Bidyut Samity - 1",
+            "Pabna Palli Bidyut Samity - 2",
+            "Pirojpur Palli Bidyut Samity",
+            "Patuakhali Palli Bidyut Samity",
+            "Rajbari Palli Bidyut Samity",
+            "Rajshahi Palli Bidyut Samity",
+            "Rangpur Palli Bidyut Samity - 1",
+            "Rangpur Palli Bidyut Samity - 2",
+            "Shariatpur Palli Bidyut Samity",
+            "Shatkhira Palli Bidyut Samity",
+            "Sherpur Palli Bidyut Samity",
+            "Sirajganj Palli Bidyut Samity-1",
+            "Sirajganj Palli Bidyut Samity-2",
+            "Sunamganj Palli Bidyut Samity",
+            "Sylhet Palli Bidyut Samity - 1",
+            "Sylhet Palli Bidyut Samity - 2",
+            "Tangail Palli Bidyut Samity",
+            "Thakurgaon Palli Bidyut Samity"
+        ]
+    }
+}
