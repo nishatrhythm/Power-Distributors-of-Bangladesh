@@ -1,12 +1,8 @@
-from flask import Blueprint, jsonify
-import json
-import os
+from flask import jsonify
+from app import app
 
-main = Blueprint('main', __name__)
-
-@main.route('/api/distributors', methods=['GET'])
-def get_distributors():
-    data_file = os.path.join(os.path.dirname(__file__), 'data', 'power_distributors.json')
-    with open(data_file, 'r', encoding='utf-8') as file:
-        data = json.load(file)
+@app.route('/api/data', methods=['GET'])
+def get_data():
+    with open('app/data/power_distributors.json', 'r') as file:
+        data = file.read()
     return jsonify(data)
